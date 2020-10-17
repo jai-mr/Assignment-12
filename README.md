@@ -49,9 +49,9 @@
 
 ## Solution B
 
-## [JSON File url in github](https://github.com/jai-mr/Assignment-12/blob/main/B_Annotate/S12_ImageAnnotate_json.json)
+### [JSON File url in github](https://github.com/jai-mr/Assignment-12/blob/main/B_Annotate/S12_ImageAnnotate_json.json)
 
-## [Contents of JSON File](https://github.com/jai-mr/Assignment-12/blob/main/B_Annotate/ContentsofJSONfile.md)
+### [Contents of JSON File](https://github.com/jai-mr/Assignment-12/blob/main/B_Annotate/ContentsofJSONfile.md)
 
 ### [Jupyter Notebook File reference executed in Colab](https://github.com/jai-mr/Assignment-12/blob/main/12.2_CodeFinal_Annonate_B.ipynb)
 
